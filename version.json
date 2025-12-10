@@ -1,0 +1,9 @@
+{
+    "version": "1.0.1",
+    "releaseNotes": [
+        "Search Fix: Resolved an issue in the Completed Tasks search bar on the Home Page where users couldn’t type spaces between words.",
+        "Delete All Tasks: Fixed the “Delete All Tasks” functionality.",
+        "Bug Fixes: Addressed several additional minor bugs for smoother performance.",
+        "Content Update: Updated app description and titles for better clarity. Updated description and titles."
+    ]
+}
