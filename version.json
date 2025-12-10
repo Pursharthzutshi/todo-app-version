@@ -1,6 +1,6 @@
 {
     "version": "1.0.1",
-    "heading": "What's New",
+    "bigHeading": "What's New",
     "releaseNotes": [
         "• Search Fix: Resolved an issue in the search bar on the Home Page where users couldn’t type spaces between words.",
         "• Delete All Tasks: Fixed the “Delete All Tasks” functionality.",
