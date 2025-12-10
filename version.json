@@ -7,5 +7,9 @@
         "• Fixed quick add task issue in widget page",
         "• Bug Fixes: Addressed several additional minor bugs for smoother performance.",
         "• Content Update: Updated app description and titles for better clarity. Updated description and titles."
-    ]
+    ],
+    "minSupportedVersion": "1.0.0",
+    "releaseDate": "2024-12-07",
+    "forceUpdate": false,
+    "critical": true
 }
