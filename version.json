@@ -11,7 +11,8 @@
         "Gestures options improved & optimized.",
         "Fixed quick add task issue in widget page",
         "Bug Fixes: Addressed several additional minor bugs for smoother performance.",
-        "Content Update: Updated app description and titles for better clarity. Updated description and titles."
+        "Content Update: Updated app description and titles for better clarity. Updated description and titles.",
+        "Note: If the Update now button dont redirect to the page then please update the app from the App Store."
     ],
     "minSupportedVersion": "1.0.0",
     "releaseDate": "2024-12-07",
