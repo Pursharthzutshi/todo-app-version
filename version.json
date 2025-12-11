@@ -7,11 +7,8 @@
     },
     "releaseNotes": [
         "Search Fix: Resolved an issue in the search bar on the Home Page where users couldn’t type spaces between words.",
-        "Delete All Tasks: Fixed the “Delete All Tasks” functionality.",
-        "Gestures options improved & optimized.",
-        "Fixed quick add task issue in widget page",
-        "Bug Fixes: Addressed several additional minor bugs for smoother performance.",
-        "Content Update: Updated app description and titles for better clarity. Updated description and titles.",
+        "Delete All Tasks: Fixed the “Delete All Tasks” functionality. Fixed quick add task issue in widget page",
+        "Gestures options improved & optimized & minor bug fixes. Updated app description and titles for better clarity.",
         "Note: If the Update now button dont redirect to the page then please update the app from the App Store."
     ],
     "minSupportedVersion": "1.0.0",
